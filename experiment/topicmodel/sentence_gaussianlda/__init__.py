@@ -1,0 +1,2 @@
+from sentence_gaussianlda.trainer.chol import GaussianLDATrainer
+from sentence_gaussianlda.src.model import GaussianLDA

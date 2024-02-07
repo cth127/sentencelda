@@ -1,0 +1,11 @@
+Cython
+progressbar
+numpy
+pandas
+pysbd
+nltk
+gensim
+torch
+sentence_transformers
+transformers
+contextualized_topic_models
