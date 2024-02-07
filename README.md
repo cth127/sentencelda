@@ -1,5 +1,8 @@
 # SentenceLDA: Discriminative and Robust Document Representation with Sentence Level Topic Model (EACL 2024)
 
+![Screenshot from 2024-02-07 16-09-38](https://github.com/cth127/sentencelda/assets/44315098/750000b4-78b9-4ed2-8d35-af7403fa20c3)
+
+
 We introduce the new sentence-level topic model, SentenceLDA.
 We found out that the SentenceLDA returns more discriminative, robust and interpretable document representation.
 
