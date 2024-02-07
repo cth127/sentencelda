@@ -3,7 +3,7 @@
 We introduce the new sentence-level topic model, SentenceLDA.
 We found out that the SentenceLDA returns more discriminative, robust and interpretable document representation.
 
-As our implementation is significantly based on the python implementaion of [GaussianLDA](https://github.com/markgw/gaussianlda), we also follows their license, GPL-3.0.
+As our implementation is significantly based on the python implementation of [GaussianLDA](https://github.com/markgw/gaussianlda), we also follow their license, GPL-3.0.
 
 ## Installation
 1. install requirements with `pip install -r requirements.txt`
