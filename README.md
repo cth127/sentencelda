@@ -22,10 +22,8 @@ As our implementation is significantly based on the python implementation of [Ga
 ```bib
 @inproceedings{cha-lee-2024-sentencelda,
     title = "{S}entence{LDA}: Discriminative and Robust Document Representation with Sentence Level Topic Model",
-    author = "Cha, Taehun  and
-      Lee, Donghun",
-    editor = "Graham, Yvette  and
-      Purver, Matthew",
+    author = "Cha, Taehun  and Lee, Donghun",
+    editor = "Graham, Yvette  and Purver, Matthew",
     booktitle = "Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
     month = mar,
     year = "2024",
